@@ -13,9 +13,9 @@ const songsList = [
     },
     {
         name: "Thể loại: remix",
-        artist: "Huma-Huma",
-        src: "assets/3.mp3",
-        cover: "assets/3.jpg"
+        artist: "QUỐC KỲ NƠI ĐẢO XA",
+        src: "assets/video/3.mp3",
+        cover: "assets/3.png"
     }
 ];
 
